@@ -1,4 +1,35 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.first-section, .second-section, .third-section{
+    width: 400px;
+    border: 1px solid ;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.first-section{
+    color: green;
+}
+
+.second-section{
+    color: red;
+}
+
+.third-section{
+    color: blue;
+}
+
+strong, i{
+    font-size: 14px;
 }
