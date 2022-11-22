@@ -4,10 +4,14 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h2{
+    font-size: 18px;
+}
+
 main{
     display: flex;
     justify-content: space-evenly;
-    font-size: 18px;
+    font-size: 14px;
     margin-top: 50px;
 }
 
